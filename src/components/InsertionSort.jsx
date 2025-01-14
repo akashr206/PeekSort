@@ -120,7 +120,7 @@ const InsertionSort = () => {
                 let key = arr[i];
                 let j = i - 1;
                 setActive(i);
-    
+                await delay(delayUser);
                 while (j >= 0 && arr[j] > key) {
                     setCoActive(j); 
                     await delay(delayUser);
