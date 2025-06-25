@@ -1,1 +1,1 @@
-#Peek Sort - Ultimate Sorting Algorithm Visulaizer
+# Peek Sort - Ultimate Sorting Algorithm Visulaizer
